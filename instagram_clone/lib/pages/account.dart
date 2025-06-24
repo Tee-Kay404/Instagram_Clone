@@ -161,7 +161,7 @@ class UserAccount extends StatelessWidget {
               ),
               const SizedBox(height: 15),
               SizedBox(
-                height: 100,
+                height: 98,
                 child: ListView.builder(
                   scrollDirection: Axis.horizontal,
                   itemCount: story.length,
